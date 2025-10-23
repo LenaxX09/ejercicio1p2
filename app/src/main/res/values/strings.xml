@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSDMH_7S21_252_P2E1_CSAA</string>
+
+    <string name="p1t1">Componentes android</string>
+    <string name="img">Imagen de Bienvenida GNU</string>
+
+    <string name="p2t1">Cuestionario de Opción Múltiple</string>
+    <string name="preg1">Sexo</string>
+    <string name="p1r1">Hombre</string>
+    <string name="p1r2">Mujer</string>
+    <string name="p1r3">Otro</string>
+    <string name="p2b1">Cargar Scroll</string>
+
+</resources>
